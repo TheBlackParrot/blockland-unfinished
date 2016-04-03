@@ -1,0 +1,3 @@
+Title: onPlayerFirstTouch
+Author: jes00 and Space Guy
+Called once when someone touches the brick.

@@ -1,0 +1,23 @@
+datablock PlayerData(PlayerFrozenArmor : PlayerStandardArmor) {
+	airControl = 0;
+	jumpForce = 0;
+	maxForwardSpeed = 0;
+	maxSideSpeed = 0;
+	maxBackwardSpeed = 0;
+	runForce = 0;
+	groundImpactShakeAmp = "0.5 0.5 0.5";
+	groundImpactMinSpeed = 13;
+	minJetEnergy = 0;
+	jetEnergyDrain = 0;
+	canJet = 0;
+	canRide = 0;
+	uiName = "Frozen Player";
+	showEnergyBar = false;
+	horizMaxSpeed = 0;
+	jumpForce = 0;
+	JumpSound = -1;
+	maxBackwardCrouchSpeed = 0;
+	maxForwardCrouchSpeed = 0;
+	maxSideCrouchSpeed = 0;
+	maxJumpSpeed = 0;
+};

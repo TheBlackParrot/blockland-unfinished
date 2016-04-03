@@ -1,0 +1,8 @@
+Author: °Core°
+BL_ID: 11953
+Description: 
+
+OnPlayerStopTouch - An event which is triggered when a player stops touching a brick.
+OnNoPlayersTouchingBrick - An event which is triggered when no players are touching the brick anymore.
+
+v2: Added new event, OnNoPlayersTouchingBrick
